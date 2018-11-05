@@ -1,5 +1,7 @@
-"# LoanPrediction"
-Some of the important commands:
+"# LoanPrediction"  
+
+Some of the important commands:  
+
 1.git
 2.git clone https://https://github.com/vishalsingh101/LoanPrediction.git
 This is used for cloning my repo to my local machine
